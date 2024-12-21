@@ -6,9 +6,12 @@
         <string>com.example.sendfiltymail</string>
         <key>ProgramArguments</key>
         <array>
+            <!-- python installed path probably same for all mac users -->
             <string>/usr/bin/python3</string>
+            <!-- Path where you have saved your script -->
             <string>/Users/tramotech/tramo/GO/python/sendMail.py</string>
         </array>
+
         <key>RunAtLoad</key>
         <true />
         <!-- <key>KeepAlive</key>
